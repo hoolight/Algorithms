@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Arrays" />
+        <module name="Linked" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Algorithms" target="1.5" />
       <module name="Arrays" target="11" />
+      <module name="Linked" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked/Linked.iml" filepath="$PROJECT_DIR$/Linked/Linked.iml" />
     </modules>
   </component>
 </project>
