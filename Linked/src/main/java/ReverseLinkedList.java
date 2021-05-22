@@ -21,8 +21,8 @@ public class ReverseLinkedList {
     }
     public static void main(String[] args) {
 //        ListNode l=new ListNode(1,new ListNode(2,new ListNode(3,new ListNode(4,new ListNode(5)))));
-        ListNode l=new ListNode(1,new ListNode(2));
-        System.out.println(ReverseLinkedList.reverseList(l).toString());
+//        ListNode l=new ListNode(1,new ListNode(2));
+//        System.out.println(ReverseLinkedList.reverseList(l).toString());
 //        l.next.next=l;
 //        l.next=null;
 //        System.out.println(l);
